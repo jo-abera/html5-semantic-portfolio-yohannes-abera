@@ -1,7 +1,7 @@
 # HTML5 Semantic Portfolio
 
 **Name:** Yohannes Abera
-**Student ID:** — *(add your student ID, if applicable)*
+
 
 ## Description
 
