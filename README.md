@@ -9,7 +9,7 @@ A single-page static portfolio built using **pure HTML5**, with no CSS or JavaSc
 
 ## Live Site
 
-*(Add your GitHub Pages URL here once enabled, e.g. `https://<your-username>.github.io/html5-semantic-portfolio-<your-name>/`)*
+*(Added my GitHub Pages URL. `https://github.com/jo-abera/html5-semantic-portfolio-yohannes-abera`)*
 
 ## Semantic Elements Implemented
 
